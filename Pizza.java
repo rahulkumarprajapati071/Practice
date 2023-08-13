@@ -1,4 +1,5 @@
 class Pizza{
-	private Double price;
-	private String type;
+	private Double pizzaPrice;
+	private String pizzaType;
+	
 }
